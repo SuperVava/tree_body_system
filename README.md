@@ -1,2 +1,1 @@
-# tree_body_system
-# tree_body_system
+This is a modelisation of the 3 body system. Enjoy!
